@@ -280,7 +280,7 @@ export default function CategoryManagement() {
                 </div>
                 <button
                   onClick={closeDrawer}
-                  className="p-2 text-gray-400 hover:bg-gray-50 rounded-xl transition-colors cursor-pointer"
+                  className="p-3 text-gray-400 hover:bg-gray-50 rounded-xl transition-colors cursor-pointer"
                 >
                   <FiX size={24} />
                 </button>
